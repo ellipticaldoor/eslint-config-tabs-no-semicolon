@@ -1,11 +1,11 @@
-# eslint-congig-tabs-no-semicolon
+# eslint-config-tabs-no-semicolon
 
 > Tabs, no semicolons. Ready for node, webpack and vue js.
 
 
 ## Installation
 ``` shell
-npm i --save-dev eslint-congig-tabs-no-semicolon
+npm i --save-dev eslint-config-tabs-no-semicolon
 ```
 
 
