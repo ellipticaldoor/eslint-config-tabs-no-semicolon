@@ -1,16 +1,15 @@
-# eslint-config-tabs-no-semicolon
+# eslint-congig-tabs-no-semicolon
 
-> A set of opinionated ESLint (http://eslint.org) rules
+> Tabs, no semicolons. Ready for node, webpack and vue js.
 
-## Usage
+
+## Installation
 ``` shell
-# local
-npm install --save-dev eslint-config-tabs-no-semicolon
-
-# global
-npm install -g eslint-config-tabs-no-semicolon@github:hiades/eslint-config-tabs-no-semicolon
+npm i --save-dev eslint-congig-tabs-no-semicolon
 ```
 
+
+## Usage
 On your **eslintConfig** section on your **package.json** or **.eslintrc** file add the following code:
 
 ``` js

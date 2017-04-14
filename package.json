@@ -1,12 +1,30 @@
 {
-  "name": "eslint-config-tabs-no-semicolon",
+  "name": "eslint-congig-tabs-no-semicolon",
   "version": "1.0.0",
-  "description": "A set of opinionated ESLint (http://eslint.org) rules",
+  "description": "Tabs, no semicolons. Ready for node, webpack and vue js.",
   "main": "index.js",
   "author": "Miguel Dorta",
   "license": "MIT",
   "peerDependencies": {
     "eslint": "^2.0.0 || ^3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "javascript",
+    "es6",
+    "no semicolons",
+    "tabs",
+    "elsint",
+    "vue",
+    "webpack",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellipticaldoor/eslint-congig-tabs-no-semicolon.git"
+  },
+  "homepage": "https://github.com/ellipticaldoor/eslint-congig-tabs-no-semicolon#readme",
+  "bugs": {
+    "url": "https://github.com/ellipticaldoor/eslint-congig-tabs-no-semicolon/issues"
+  },
 }
