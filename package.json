@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tabs-no-semicolon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tabs, no semicolons. Ready for node, webpack and vue js.",
   "main": "index.js",
   "author": "Miguel Dorta",
@@ -26,5 +26,5 @@
   "homepage": "https://github.com/ellipticaldoor/eslint-config-tabs-no-semicolon#readme",
   "bugs": {
     "url": "https://github.com/ellipticaldoor/eslint-config-tabs-no-semicolon/issues"
-  },
+  }
 }
