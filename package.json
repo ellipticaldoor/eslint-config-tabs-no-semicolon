@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tabs-no-semicolon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tabs, no semicolons. Ready for node, webpack and vue js.",
   "main": "index.js",
   "author": "Miguel Dorta",
